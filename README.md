@@ -1,2 +1,2 @@
 # CalcEnergy
-CalcEnergy
+O CalcEnergy tem como objetivo desenvolver e aplicar um sistema de monitoramento do consumo energético em uma comunidade, permitindo o acompanhamento diário do uso de energia por cada equipamento. A proposta visa aumentar a consciência sobre os hábitos de consumo e identificar oportunidades para a utilização mais eficiente da energia elétrica. A iniciativa está diretamente alinhada com os Objetivos de Desenvolvimento Sustentável (ODS), contribuindo para o ODS 7 (Energia Acessível e Limpa), ODS 11 (Cidades e Comunidades Sustentáveis), ODS 12 (Consumo e Produção Sustentáveis) e ODS 13 (Ação Contra a Mudança Global do Clima), ao incentivar práticas mais sustentáveis e a redução do impacto ambiental por meio da gestão inteligente do uso energético.
